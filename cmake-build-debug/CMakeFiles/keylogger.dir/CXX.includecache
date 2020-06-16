@@ -11,8 +11,6 @@ iostream
 -
 windows.h
 -
-Winuser.h
--
 fstream
 -
 
