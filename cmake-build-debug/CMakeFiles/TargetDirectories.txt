@@ -1,0 +1,3 @@
+C:/Users/hmm/CLionProjects/keylogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hmm/CLionProjects/keylogger/cmake-build-debug/CMakeFiles/keylogger.dir
+C:/Users/hmm/CLionProjects/keylogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
